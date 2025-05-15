@@ -3,5 +3,6 @@
 Generate ai images using openai api </br></br>
 A simple demo of image generation using external api key </br>
 Provides an interface to generate images using availabe openai api key </br>
-Store images locally if required using download option </br>
+Store images locally if required using download option </br></br>
+
 ## checkout page : <a href="https://anikethgoud.github.io/imaGEN/">click here for demo</a>
